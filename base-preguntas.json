@@ -1,0 +1,539 @@
+[
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Que seleccion de futbol gano el mundial en rusia 2018?",
+        "respuesta": "Francia",
+        "incorrecta1": "Brasil",
+        "incorrecta2": "España",
+        "incorrecta3": "Argentina",
+        "imagen": "https://cnnespanol.cnn.com/wp-content/uploads/2017/11/171117102739-cnnee-copa-mundial-rusia-2018-full-169.jpg?quality=100&strip=info",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Cultura General",
+        "pregunta": "¿Cual de estos no es uno de los 5 tipos de sabores primarios?",
+        "respuesta": "astringente",
+        "incorrecta1": "umami",
+        "incorrecta2": "salado",
+        "incorrecta3": "amargo",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ__E4txJRBNTsO-J0PFTCrQBCynYaw2b0IVNUfAnKtBbHHm0fXYdImPJwwbFTaxqvyWAY&usqp=CAU",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Cultura General",
+        "pregunta": "¿Cual es el lugar mas frio de la tierra?",
+        "respuesta": "Antartida",
+        "incorrecta1": "Canada",
+        "incorrecta2": "Estonia",
+        "incorrecta3": "Alaska",
+        "imagen": "https://cdns3.eltiempo.es/eltiempo/blog/noticias/2019/01/14110658/Oymyakon.jpg",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Cinecia Ficccion",
+        "pregunta": "¿De que universo es batman?",
+        "respuesta": "DC COMICS",
+        "incorrecta1": "Marvel",
+        "incorrecta2": "Universo SD",
+        "incorrecta3": "Ninguna de las anteriores",
+        "imagen": "https://www.sopitas.com/wp-content/uploads/2016/08/batman-return-of-the-caped-crusaders-3.gif",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Cultura General",
+        "pregunta": "¿Cual es el rio mas grande del mundo?",
+        "respuesta": "Nilo",
+        "incorrecta1": "Amazonas",
+        "incorrecta2": "Rio grande",
+        "incorrecta3": "Todos los anteriores",
+        "imagen": "https://www.eltiempo.com/uploads/2018/05/11/5af5c7229e3d6.jpeg",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Ciencia Ficcion",
+        "pregunta": "¿Cual de estos personajes no pertenece al universo marvel?",
+        "respuesta": "dos caras",
+        "incorrecta1": "black widow",
+        "incorrecta2": "Spiderman",
+        "incorrecta3": "Iron man",
+        "imagen": "https://i.pinimg.com/originals/af/b3/8c/afb38c01ce05fc53f336be37bac56902.jpg",
+       "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Peliculas",
+        "pregunta": "¿Con que pelicula animada guillermo del toro gano un oscar?",
+        "respuesta": "Pinocho",
+        "incorrecta1": "El libro de la vida",
+        "incorrecta2": "Gato con botas",
+        "incorrecta3": "Kun Fu Panda",
+        "imagen": "https://cnnespanol.cnn.com/wp-content/uploads/2023/03/230313175055-guillermo-del-toro-pinocchio-oscar-mexicanos-perspectivas-mexico-cine-director-pelicula-premio-animacion-00003401-full-169-1.jpg?quality=100&strip=info",
+       "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Cultura general",
+        "pregunta": "¿Quien pinto la ultima cena?",
+        "respuesta": "Da Vinci",
+        "incorrecta1": "Darwin",
+        "incorrecta2": "Picasso",
+        "incorrecta3": "Paul Cezanne",
+        "imagen": "https://plumasatomicas.com/wp-content/uploads/2020/04/Ultima-Cena-Jueves-Santo-Cuadro-Da-Vinci-1200x720.jpg",
+       "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Informatica",
+        "pregunta": "¿Que es el hardware?",
+        "respuesta": "Es lo Fisico de la computadora",
+        "incorrecta1": "Es la parte digital",
+        "incorrecta2": "Ninguna de las anteriores",
+        "incorrecta3": "Nose xd",
+        "imagen": "https://am.pictet/-/media/mega/mega-articles/content/2020/potential-of-quantum-computing-technology/image-1186902469.jpg?w=1040&hash=DD4F27446A7DCE05401AA4175A48B6BF",
+       "objectFit": "cover"
+    }, 
+
+    {
+        "categoria": "Cultura general",
+        "pregunta": "¿Que producto cultiva mas guatemala?",
+        "respuesta": "Cafe",
+        "incorrecta1": "Trigo",
+        "incorrecta2": "Algodon",
+        "incorrecta3": "azucar",
+        "imagen": "https://mexico.infoagro.com/wp-content/uploads/2020/04/soil-row-crops.jpg",
+       "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Que deporte practica michel jordan?",
+        "respuesta": "Basquetball",
+        "incorrecta1": "Tenis",
+        "incorrecta2": "Fotball",
+        "incorrecta3": "Natacion",
+        "imagen": "https://tn.com.ar/resizer/E4JVKvefua-JkYSgLLyPnug3D74=/1440x0/smart/filters:format(webp)/arc-anglerfish-arc2-prod-artear.s3.amazonaws.com/public/Z5CCK4LQ44JIM6BWFUMIPN2SZI.jpg",
+       "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Logica",
+        "pregunta": "¿De que color eran las mangas del chaleco rojo de napoleon?",
+        "respuesta": "Ninguna",
+        "incorrecta1": "Obvio rojo",
+        "incorrecta2": "SI",
+        "incorrecta3": "Blanco ",
+        "imagen": "https://elbamartinez.files.wordpress.com/2017/07/colores-rojo-e2c21ae6c67dc8ef44129ab38c8087ae-1024-1024.jpg",
+       "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Ciencias",
+        "pregunta": "¿Cuantos huesos tiene el cuerpo humano?",
+        "respuesta": "206",
+        "incorrecta1": "256",
+        "incorrecta2": "200",
+        "incorrecta3": "154",
+        "imagen": "https://www.clarin.com/img/2021/02/12/i6NVrqC5J_360x240__1.jpg",
+       "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Ciencias",
+        "pregunta": "¿Cuál es el gas más abundante en la atmósfera de la Tierra?",
+        "respuesta": "Nitrogeno",
+        "incorrecta1": "Oxigeno",
+        "incorrecta2": "helio",
+        "incorrecta3": "boro",
+        "imagen": "https://www.zschimmer-schwarz.es/app/uploads/2020/06/nitrogeno-1280x720.jpg",
+       "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Cultura general",
+        "pregunta": "¿Quien invento la mesa de tenis?",
+        "respuesta": "David Foster",
+        "incorrecta1": "Mario Castañeda",
+        "incorrecta2": "Marcus Galen",
+        "incorrecta3": "Amlo",
+        "imagen": "https://deporteolimpico.net/wp-content/uploads/2020/07/medidas-reglamentarias-mesas-ping-pong-compressor-compressor.jpg",
+       "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Caricaturas",
+        "pregunta": "¿Como se llama el mejor amigo de bob esponja?",
+        "respuesta": "Patricio",
+        "incorrecta1": "Calamardo",
+        "incorrecta2": "Don cangrejo",
+        "incorrecta3": "Arenita",
+        "imagen": "https://peru21.pe/resizer/yNu6EZADMOnCY-YGevBD84tCoSM=/1200x1200/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/6RDFP4F6QNCN7FYPLOTLM2IQ5M.jpg",
+       "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Caricaturas",
+        "pregunta": "¿Que personaje es conocido como la sirenita?",
+        "respuesta": "Ariel",
+        "incorrecta1": "Rapuncel",
+        "incorrecta2": "Laura",
+        "incorrecta3": "Estarla",
+        "imagen": "https://i.ytimg.com/vi/bdfEIpmDvDc/maxresdefault.jpg",
+       "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Automoviles",
+        "pregunta": "¿Cual es el auto mas rapido del mundo?",
+        "respuesta": "SSC Tuatara",
+        "incorrecta1": "Lamborgini",
+        "incorrecta2": "Audi r8",
+        "incorrecta3": "Bocho tuneado",
+        "imagen": "https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/cual-coche-comercial-rapido-mundo-2738259.jpg",
+       "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Administracion",
+        "pregunta": "¿Quie es el padre de la administracion?",
+        "respuesta": "Henry Fayol",
+        "incorrecta1": "Henry Gantt",
+        "incorrecta2": "Max Weber",
+        "incorrecta3": "Elton Mayo",
+        "imagen": "https://cursodeadministraciondeempresas.com/wp-content/uploads/2020/08/1.jpg",
+       "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Musica",
+        "pregunta": "¿De donde es la cantante shakira?",
+        "respuesta": "Colombia",
+        "incorrecta1": "Peru",
+        "incorrecta2": "Barcelona",
+        "incorrecta3": "ninguna",
+        "imagen": "https://media.glamour.mx/photos/61904bc4a6e030d6480f3ed5/16:9/pass/270483.jpg",
+       "objectFit": "cover"
+    },
+    {
+        
+        "categoria": "Escuela",
+        "pregunta": "¿Quanto es 3+4x5?",
+        "respuesta": "23",
+        "incorrecta1": "43",
+        "incorrecta2": "33",
+        "incorrecta3": "35",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC5hQ3HMqZqTmCAE0aVJgDZNumUt1I1-jfFJ0EYw6g91WcEGuGNNNiXGbtprEOEwXy_k4&usqp=CAU",
+       "objectFit": "cover"
+    },
+    {
+        
+        "categoria": "Artistas",
+        "pregunta": "¿quien es el?",
+        "respuesta": "Will Smith",
+        "incorrecta1": "tom Hanks",
+        "incorrecta2": "Johnny Depp",
+        "incorrecta3": "Robert de Niro",
+        "imagen": "https://cdn-3.expansion.mx/dims4/default/f3cf1fc/2147483647/strip/true/crop/1200x799+0+0/resize/1200x799!/format/webp/quality/60/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Ff4%2F1d%2F22f14ecf43c0b6232ef7b2b1644b%2Fgettyimages-465783654.jpg",
+       "objectFit": "cover"
+    },
+    {
+        
+        "categoria": "Salon",
+        "pregunta": "¿Si le regalas un libro de coaching a este profe, seguro te reprueba?",
+        "respuesta": "Prof. Armando Chairez",
+        "incorrecta1": " Prof. Omar Orozco ",
+        "incorrecta2": "Prof. Miguel Sosa",
+        "incorrecta3": "Ninguno de los anteriores",
+        "imagen": "https://cdn2.hubspot.net/hubfs/533390/Fotos_blogs/Management/2017/octubre/coaching_carlos_llano.jpg",
+       "objectFit": "cover"
+    },
+    {
+        
+        "categoria": "Salon",
+        "pregunta": "¿Quién estuvo vendiendo empanaditas",
+        "respuesta": "Zaira Amaya",
+        "incorrecta1": "Gabriela Sánchez",
+        "incorrecta2": "Ariel Franco",
+        "incorrecta3": "Dafne Chavarria",
+        "imagen": "https://i.pinimg.com/originals/d4/e9/f2/d4e9f222b37fd5dadb7d125a1150a9a6.gif",
+       "objectFit": "cover"
+    },
+    {
+        
+        "categoria": "Salon",
+        "pregunta": "¿Compañero que fue apodado por el profe Cháirez como “la belleza masculina",
+        "respuesta": "Víctor Garnica",
+        "incorrecta1": "Diego Arciniega",
+        "incorrecta2": "José Figueroa",
+        "incorrecta3": "Oscar Adete",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq7fB1Tkr5LZLbq7o9sBLK6Fhi-mbyggF7Ww&usqp=CAU",
+       "objectFit": "cover"
+    },
+    {
+        
+        "categoria": "Salon",
+        "pregunta": "¿Compañero que fue Hitler en el juicio",
+        "respuesta": "Ángel Carrera",
+        "incorrecta1": "Jesús Vargas",
+        "incorrecta2": "Axel Chavira",
+        "incorrecta3": "Kevin Martínez",
+        "imagen": "https://www.facinghistory.org/sites/default/files/styles/standard_hero_article_460_361_1x/public/2022-05/HHB_Chapter_6_Medium_res.jpg?h=193b5c49&itok=2jQ6vV1X",
+       "objectFit": "cover"
+    },
+    {
+        
+        "categoria": "Salon",
+        "pregunta": "¿Maestra que quería estudiar diseño de modas",
+        "respuesta": "Mtra. Siboney",
+        "incorrecta1": "Mtra. Liliana",
+        "incorrecta2": "Mtra. Anel",
+        "incorrecta3": "Mtra. Dora",
+        "imagen": "https://ruizhealytimes.com/wp-content/uploads/2015/07/moda.jpg",
+       "objectFit": "cover"
+    },
+    {
+        "categoria": "Salon",
+        "pregunta": "¿Cuantos años tiene la Maestra de Administracion",
+        "respuesta": "25",
+        "incorrecta1": "35",
+        "incorrecta2": "26",
+        "incorrecta3": "32",
+        "imagen": "https://ichef.bbci.co.uk/news/640/cpsprodpb/4756/production/_125826281_6da738da-f8ff-499a-980d-c03df32772b5.png",
+       "objectFit": "cover"
+    },
+    {
+        "categoria": "Salon",
+        "pregunta": "¿Compañera que escribió un ensayo filosófico para la semana cultural",
+        "respuesta": "Daniela Reyes",
+        "incorrecta1": "Daniela García",
+        "incorrecta2": "Ariadna Lozano",
+        "incorrecta3": "Itzel Arroyo",
+        "imagen": "https://uruguayeduca.anep.edu.uy/sites/default/files/2017-08/text8926.png",
+       "objectFit": "cover"
+    },
+    {
+        "categoria": "Salon",
+        "pregunta": "¿Qué comimos en la posada navideña?",
+        "respuesta": "Quesabirrias",
+        "incorrecta1": "Boneless",
+        "incorrecta2": "Pizza",
+        "incorrecta3": "Quesadillas",
+        "imagen": "https://www.bbvaopenmind.com/wp-content/uploads/2020/12/BBVA-OpenMind-Tosar-Luces-de-Navidad_1.jpg",
+       "objectFit": "cover"
+    },
+    {
+        "categoria": "Salon",
+        "pregunta": "¿Maestra con la que no trabajamos por 20 minutos, pero sí en los últimos 30 minutos de clase?",
+        "respuesta": "Mtra. Dora",
+        "incorrecta1": "Mtra. Liliana",
+        "incorrecta2": "Mtra. Anel",
+        "incorrecta3": "Mtra. Esmeralda",
+        "imagen": "https://laredodaily.news/wp-content/uploads/2023/01/Horarios.jpg",
+       "objectFit": "cover"
+    },
+    {
+        "categoria": "Salon",
+        "pregunta": "¿La salsa de boneless más votada por el grupo fue?",
+        "respuesta": "Búfalo",
+        "incorrecta1": "Spicy hot",
+        "incorrecta2": "Mango habanero",
+        "incorrecta3": "BBQ",
+        "imagen": "https://www.daddypollo.com/assets/uploads/a5c5a96d7cc67fed7dfa30c586c021ac.png",
+       "objectFit": "cover"
+    },
+    {
+        "categoria": "Salon",
+        "pregunta": "¿Campus de la UACJ que todo el grupo visitó",
+        "respuesta": "CU",
+        "incorrecta1": "ICSA",
+        "incorrecta2": "ICB",
+        "incorrecta3": "IADA",
+        "imagen": "https://www.uacj.mx/acerca_de/Imagen-Institucional-UACJ_files/firma%20institucional%20uacj-horizontal-%202015-color-sin%20fondo.png",
+       "objectFit": "cover"
+    },
+    {
+        "categoria": "Salon",
+        "pregunta": "A que fase pertenece la etapas de planeación y organización",
+        "respuesta": "Fase mecánica",
+        "incorrecta1": "Fase dinámica",
+        "incorrecta2": "Fase manual",
+        "incorrecta3": "Fase de liderazgo",
+        "imagen": "https://economipedia.com/wp-content/uploads/Proceso-administrativo-etapas.jpg",
+       "objectFit": "cover"
+    },
+    {
+        "categoria": "Salon",
+        "pregunta": "Cuantos días de aguinaldo se le otorga por ley a un trabajador",
+        "respuesta": "15",
+        "incorrecta1": "20",
+        "incorrecta2": "30",
+        "incorrecta3": "34",
+        "imagen": "https://vanguardia.com.mx/binrepository/1152x750/0c51/1152d648/down-right/11604/JKUD/aguinaldodineroahorro_VG2632532_MG5987513.jpg",
+       "objectFit": "cover"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Cuándo se inventó la escritura?",
+        "respuesta": " En el IV milenio a.C.",
+        "incorrecta1": "Hace 20 mil años.",
+        "incorrecta2": "En el año 0.",
+        "incorrecta3": "Ninguna de las anteriores",
+        "imagen": "https://www.elauladepapeloxford.com/wp-content/uploads/2021/12/dia-escritura-mano.png",
+    "objectFit": "cover"
+    },
+    {
+        "categoria": "Salon",
+        "pregunta": "Que deporte práctica la maestra de administración cuando era joven",
+        "respuesta": "Basket",
+        "incorrecta1": "Vóleibol",
+        "incorrecta2": "Natacion",
+        "incorrecta3": "Carreras",
+        "imagen": "https://www.fundeu.es/wp-content/uploads/2019/07/deporteslima.jpg",
+    "objectFit": "cover"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Cómo se llamaban los gobernantes del antiguo Egipto?",
+        "respuesta": "Faraones",
+        "incorrecta1": "Basileos",
+        "incorrecta2": "Alcaldes",
+        "incorrecta3": "Kefrénes",
+        "imagen": "https://historia.nationalgeographic.com.es/medio/2020/06/15/libro-de-los-muertos-de-hunefer-en-el-que-su-momia-atada-por-un-sacerdote-de-anubis-recibe-el-ritual-de-la-apertura-de-la-boca-practicada-por-varios-sacerdotes_54a7bc6e_1200x630.jpg",
+    "objectFit": "cover"
+    },
+    {
+        "categoria": "Filosofia",
+        "pregunta": "¿Cuál de estos emperadores fue alumno del filósofo griego Aristóteles?",
+        "respuesta": "Alejandro Magno.",
+        "incorrecta1": "Trajano",
+        "incorrecta2": "Carlomagno",
+        "incorrecta3": "Socrates",
+        "imagen": "https://www.elheraldo.co/sites/default/files/styles/840x473/public/articulo/2016/08/14/socrates_0.jpg?itok=Xs8ePLK2",
+    "objectFit": "cover"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "Los samuráis eran:",
+        "respuesta": " Antiguos guerreros japoneses",
+        "incorrecta1": "Antiguos guerreros persas",
+        "incorrecta2": "Los aliados de los espartanos",
+        "incorrecta3": "Antiguos  guerreros Chinos ",
+        "imagen": "https://s1.1zoom.me/big0/167/427855-Kycb.jpg",
+    "objectFit": "cover"
+    },
+    {
+        "categoria": "Capciosa",
+        "pregunta": "¿De qué color son las ‘cajas negras’ de los aviones?",
+        "respuesta": "Naranjas",
+        "incorrecta1": "Negras",
+        "incorrecta2": "Amarillas",
+        "incorrecta3": "Rojas",
+        "imagen": "https://statics.forbesargentina.com/2022/04/624ba85d46923.jpg",
+    "objectFit": "cover"
+    },
+    {
+        "categoria": "Cultura General",
+        "pregunta": "pais más grande del mundo",
+        "respuesta": "Rusia",
+        "incorrecta1": "China",
+        "incorrecta2": "canada",
+        "incorrecta3": "India",
+        "imagen": "https://concepto.de/wp-content/uploads/2020/12/pais-800x295.jpg",
+    "objectFit": "cover"
+    },
+    {
+        "categoria": "Cultura General",
+        "pregunta": "primer hombre en pisar la luna",
+        "respuesta": "Neil Alden Armstrong",
+        "incorrecta1": "Buzz Aldrin",
+        "incorrecta2": "Julio Verne",
+        "incorrecta3": "Jesse James",
+        "imagen": "https://cdn.businessinsider.es/sites/navi.axelspringer.es/public/media/image/2023/02/huele-luna-astronautas-2943656.jpg?tf=3840x",
+    "objectFit": "cover"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Cuál evento provocó el inicio de la Segunda Guerra Mundial?",
+        "respuesta": "La invasión alemana a Polonia ",
+        "incorrecta1": "La batalla de Verdún",
+        "incorrecta2": "El ataque a Fort Sumter",
+        "incorrecta3": "Ataque a alemania ",
+        "imagen": "https://i1.wp.com/historia-biografia.com/wp-content/uploads/2018/12/Historia-de-la-Segunda-Guerra-Mundial.jpg?fit=649%2C330&ssl=1",
+    "objectFit": "cover"
+    },
+    {
+        "categoria": "Cultura",
+        "pregunta": "Los estado mas grandes de mexico",
+        "respuesta": "Chihuahua, Sonora, Coahuila y Durango",
+        "incorrecta1": "Sonora,colima,guerrero",
+        "incorrecta2": "Tlaxcala ,Morelos , cd MX ",
+        "incorrecta3": "Oaxaca, VERACRUZ ,",
+        "imagen": "https://previews.123rf.com/images/malachy120/malachy1201610/malachy120161000043/67299137-grande-y-detallada-mapa-de-m%C3%A9xico-con-las-regiones-y-ciudades-principales.jpg",
+    "objectFit": "cover"
+    },
+    {
+        "categoria": "Social",
+        "pregunta": "En que bachi estamos",
+        "respuesta": "11",
+        "incorrecta1": "5",
+        "incorrecta2": "7",
+        "incorrecta3": "9",
+        "imagen": "https://cdn.ntmx.me/media/2021/10/04/_hd4d49e1c9b4be16654abc4c102102258d49ebe8c0.jpg",
+    "objectFit": "cover"
+    },
+    {
+        "categoria": "Cultura",
+        "pregunta": "país donde se producen vinos",
+        "respuesta": "Italia",
+        "incorrecta1": "Frania",
+        "incorrecta2": "Suecia",
+        "incorrecta3": "Dinamarca",
+        "imagen": "https://s3.amazonaws.com/arc-wordpress-client-uploads/infobae-wp/wp-content/uploads/2019/09/06111640/Vino-tinto-1920-1.jpg",
+    "objectFit": "cover"
+    },
+    {
+        "categoria": "Adivinanza",
+        "pregunta": "¿Qué sube, pero nunca baja?",
+        "respuesta": " La edad",
+        "incorrecta1": "Los globos",
+        "incorrecta2": "El aire",
+        "incorrecta3": "La hora",
+        "imagen": "https://www.cerebrol.com/media/adivinanzas/adivinanzas/auto/615-que-es-lo-que-sube-y-nunca-baja-landscape.png",
+    "objectFit": "cover"
+    },
+    {
+        "categoria": "Lectura",
+        "pregunta": "quien escribió la divina comedia",
+        "respuesta": "Dante Alighieri",
+        "incorrecta1": "Petrarca",
+        "incorrecta2": "Nicolás Maquiavelo",
+        "incorrecta3": "Jacopo Alighieri",
+        "imagen": "https://peliculasmaslibros.com/wp-content/uploads/2019/10/divina-comedia3-e1570152885663.jpg",
+    "objectFit": "cover"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "cuando acabo la segunda guerra mundial",
+        "respuesta": " 1945",
+        "incorrecta1": "1940",
+        "incorrecta2": "1943",
+        "incorrecta3": "1946",
+        "imagen": "https://www.revistacambio.com.mx/wp-content/uploads/2020/05/Me%CC%81xico-Segunda-Guerra-Mundial-1024x527.png",
+    "objectFit": "cover"
+    },
+    {
+        "categoria": "Cultura General",
+        "pregunta": "El chocolate tiene su origen en...",
+        "respuesta": " Mexico",
+        "incorrecta1": "España",
+        "incorrecta2": "Paises bajos",
+        "incorrecta3": "Estados Unidos",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaDUUU2tJAwEHTgJ8aXnQTYcGJ3JGRW1ZRvq8QQKNW_mSTMnWehafd08-fZlBDKl_kYsk&usqp=CAU",
+    "objectFit": "cover"
+    }
+
+
+
+]
